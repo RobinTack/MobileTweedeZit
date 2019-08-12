@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">What\'s Cookin\'?</string>
+    <string name="logo_text">What\'s Cookin\'?</string>
+    <string name="start_cooking">Start Cooking</string>
+    <string name="find_supermarket">Find Supermarkets</string>
+    <string name="content_description_logo">Logo for the app</string>
+    <string name="ingredients_title">Ingredients</string>
+    <string name="add_ingredient_button_text">Add Ingredient</string>
+    <string name="find_recipes_button_text">Find Recipes</string>
+    <string name="ingredient_hint">Add an ingredient!</string>
+    <string name="show_recipes">Show Recipes!</string>
+
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_google_super_market">Supermarkets</string>
+    <string name="title_recipe_list">Recipes</string>
+    <string name="title_recipe_detail">Recipe Detail</string>
+</resources>
